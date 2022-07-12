@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": ".",
+			"name": "Project root",
+			"folder_exclude_patterns": ["*"],
+		},
+		{
+			"path": "./app/src/main",
+			"name": "Application source",
+		},
+		{
+			"path": "./app/src/test",
+			"name": "Unit tests",
+		},{
+			"path": "./app",
+			"name": "Build configuration",
+			"folder_exclude_patterns": ["*"],
+		}
+	]
+}
